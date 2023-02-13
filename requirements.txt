@@ -8,13 +8,13 @@ numpy
 pandas
 seaborn
 matplotlib
-matplotlib.pyplot
+pyplot
 random
 wordcloud
 os
 textblob
 pattern.en
 datetime
-nltk.sentiment
+sentiment
 SentimentIntensityAnalyzer
 
