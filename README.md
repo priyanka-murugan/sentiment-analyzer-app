@@ -8,7 +8,8 @@ This app scrapes the top news headlines from the U.S. News website and performs 
 
 1. Data Manipulation: pandas, numpy
 2. Visualisation: matplotlib, seaborn
-3. NLP: nltk
+3. Natural Language Processing: nltk
+4. Scraping: BeautifulSoup4, requests
 
 ## What can this app do?
 
