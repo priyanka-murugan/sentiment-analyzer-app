@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "==0.86"
+transformers = "==4.8.1"
+torch = "==1.9.0"
+requests = "*"
+bs4 = "*"
+beautifulsoup = "*"
+re = "*"
+nltk = "*"
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+"matplotlib.pyplot" = "*"
+random = "*"
+wordcloud = "*"
+os = "*"
+textblob = "*"
+"pattern.en" = "*"
+datetime = "*"
+"nltk.sentiment" = "*"
+"nltk.sentiment.vader" = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
