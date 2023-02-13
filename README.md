@@ -8,9 +8,7 @@ This app scrapes the top news headlines from the U.S. News website and performs 
 2. Visualisation: matplotlib, seaborn
 3. NLP: nltk
 
-# 👈 Select a cool thing you want to see from the sidebar to see what this app can do!
-
-You may wonder what the objective of this app is, read on to get to know more
+## You may wonder what the objective of this app is, read on to get to know more
 
 1. There is a very simple scrapper that is running in the background that pulls the headlines from the website (you can even download a csv file)
 2. Then we can see a distribution of what the major sentiments behind the scraped headlines are (positive, negative and neutral). This is to check the hypothesis of whether news websites primarily report negative news or not!
