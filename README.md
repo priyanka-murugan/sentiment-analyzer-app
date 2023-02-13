@@ -1,5 +1,7 @@
 ## Welcome to my Sentiment Analyser App 👋
 
+(You can access it here --> https://priyanka7219-sentiment-analyzer-hello-9splmb.streamlit.app/)
+
 This app scrapes the top news headlines from the U.S. News website and performs sentiment analysis on them (you can access here --> https://www.usnews.com/)
 
 # Following are the python libraries used:
