@@ -11,6 +11,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import time
 
+nltk.download('vader_lexicon')
+nltk.download('stopwords')
+
 st.set_page_config(page_title="Frequency Distribution", page_icon="📈")
 
 st.markdown("# Plotting Frequency Distribution of the words in Headlines from U.S. News")

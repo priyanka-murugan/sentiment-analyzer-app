@@ -10,6 +10,8 @@ from datetime import date
 import matplotlib.pyplot as plt
 import seaborn as sns
 import time
+nltk.download('vader_lexicon')
+nltk.download('stopwords')
 
 st.set_page_config(page_title="Plotting Sentiments", page_icon="📈")
 

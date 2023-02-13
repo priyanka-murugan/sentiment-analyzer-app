@@ -11,6 +11,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import time
 
+nltk.download('vader_lexicon')
+nltk.download('stopwords')
+
 st.set_page_config(
     page_title="Hello",
     page_icon="👋",
