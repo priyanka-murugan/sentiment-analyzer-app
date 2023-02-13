@@ -1,4 +1,15 @@
 import streamlit as st
+import pandas as pd
+import numpy as np
+import requests
+from bs4 import BeautifulSoup
+import nltk
+from nltk.sentiment import SentimentIntensityAnalyzer
+import datetime 
+from datetime import date
+import matplotlib.pyplot as plt
+import seaborn as sns
+import time
 
 st.set_page_config(
     page_title="Hello",
