@@ -31,11 +31,11 @@ This app scrapes the top news headlines from the U.S. News website and performs 
 
 2. Theres another file called Pipfile that is important. I have to go back to check how it was initally created but if the requirements.txt and Pipfile are not in tandem you are at risk of losing your mind.
 
-**Resolution:** There might be a better way but to save time just manually change it by opening in Notepad. It should have the same packages as requirements.txt. Once your Pipfile is alright, alls well in the world again. You can then run pipenv install --skip-lock or pipenv lock. This will create yet another file called Pipfile.lock
+**Resolution:** There might be a better way but to save time just manually change it by opening in Notepad. It should have the same packages as requirements.txt. Once your Pipfile is alright, all's well in the world again. You can then run pipenv install --skip-lock or pipenv lock. This will create yet another file called Pipfile.lock
 
 3. Do not run your app outside of the venv
 
-**Resolution:** Make sure you use the pipenc shell command before you start fiddling with your app
+**Resolution:** Make sure you use the pipenv shell command before you start fiddling with your app
 
 4. Make sure you install the packages from requirements.txt in the venv
 
