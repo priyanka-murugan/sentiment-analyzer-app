@@ -1,6 +1,6 @@
 # Welcome to my Sentiment Analyser App 👋
 
-(You can access it here --> https://priyanka-murugan-sentiment-analyzer-app-hello-s2ada9.streamlit.app/)
+***Check it [here](https://priyanka-murugan-sentiment-analyzer-app-hello-s2ada9.streamlit.app/)!***
 
 This app scrapes the top news headlines from the U.S. News website and performs sentiment analysis on them (you can access here --> https://www.usnews.com/)
 
